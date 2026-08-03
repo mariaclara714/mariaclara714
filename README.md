@@ -1,4 +1,7 @@
-## Hi there 👋
+### Olá me chamo Maria Clara!
+- Sou estudante do curso de Técnico de Informática.
+- Estou estudando Python,HTML,CSS e MySQL.
+- Moro no Estado de Goiás.
 
 <!--
 **mariaclara714/mariaclara714** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
